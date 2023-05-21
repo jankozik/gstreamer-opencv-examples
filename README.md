@@ -1,7 +1,7 @@
 # Python3 examples for the usage of GStreamer in OpenCV
 <p align="center"><img src="https://i.imgflip.com/52sun5.jpg" width="400"/></p>
 
-### I give you the light of ~~Eärendil~~ GStreamer, our most beloved ~~star~~ lib. May it be a light for you in dark places, when all other lights go out.
+### I give you the light of GStreamer, our most beloved lib. May it be a light for you in dark places, when all other lights go out.
 
 ## Short intro
 These examples, written in Python, will provide a good starting point for a lot, and the most common, applications of GStreamer and OpenCV. The snippets mainly use OpenCV's VideoWriter and VideoCapture object, and include the following functionalities:
